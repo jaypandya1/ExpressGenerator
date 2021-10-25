@@ -1,8 +1,8 @@
 {
-  "name": "comp229-f2021-lesson2",
+  "name": "comp229-f2021-lesson3",
   "version": "0.0.1",
   "description": "Demo Project for COMP229 Lesson 2",
-  "author": "Tom Tsiliopoulos",
+  "author": "Jay Pandya",
   "main": "server.js",
   "license": "MIT",
   "scripts": {
@@ -11,6 +11,14 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
     "@popperjs/core": "^2.10.1",
+    "@types/bootstrap": "^5.1.6",
+    "@types/cookie-parser": "^1.4.2",
+    "@types/debug": "^4.1.7",
+    "@types/ejs": "^3.1.0",
+    "@types/express": "^4.17.13",
+    "@types/http-errors": "^1.8.1",
+    "@types/jquery": "^3.5.8",
+    "@types/morgan": "^1.9.3",
     "bootstrap": "^5.1.1",
     "cookie-parser": "^1.4.4",
     "debug": "^4.3.2",
